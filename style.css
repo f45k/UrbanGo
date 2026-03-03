@@ -108,7 +108,6 @@ nav a:hover {
     font-weight: bold;
     transition: 0.3s;
     width: 200px;
-    margin: auto;
 }
 
 .btn-primary:hover {
